@@ -6,7 +6,7 @@ export default function Index() {
   return (
     <Layout>
       <div style={{ height: '100vh' }}>
-        <div style={{ textAlign: 'center', paddingTop: '10vh' }}>
+        <div style={{ textAlign: 'center', paddingTop: '17vh' }}>
           <img
             id="logo"
             alt="logo"
@@ -19,7 +19,7 @@ export default function Index() {
             <Link id="link" href="https://groupme.com/en-US/">
               [GroupMe]
             </Link>{' '}
-            <Link id="link" href="https://www.google.com/">
+            <Link id="link" href="/files">
               [Files]
             </Link>{' '}
             <Link id="link" href="https://de">
@@ -44,14 +44,14 @@ export default function Index() {
 
             <h1>Leadership</h1>
             <p>
-              Havish Netla *** <br /> Jeffrey Yang *** <br />
-              Daniel Huang **
-              <br /> Max Hollis ** <br />
+              Havish Netla ** <br /> Jeffrey Yang ** <br />
+              {/* Daniel Huang **
+              <br /> Max Hollis ** <br /> */}
               Satya Selvam *<br /> Tanishq Ahuja * <br />
               <br />
-              *** = President <br />
-              ** = Overseer
-              <br /> * = Officer
+              ** = President <br />
+              {/** * = Overseer
+              <br />  */}* = Officer
             </p>
           </Col>
 
