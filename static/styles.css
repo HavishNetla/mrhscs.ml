@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  font-family: "Source Code Pro", monospace;
+  color: #05ff00;
+  
+}
+
+#logo {    
+    pointer-events: none;
+    user-select: none;
+    padding-bottom: 30px;
+}
+
+#container {
+  display: flex;
+  margin: 0em 10em 0em 10em;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    #logo {
+      width: 80%;
+    }
+
+    #container {
+      margin: 1em;
+    }
+}
+
+h1 {
+  margin-top: 25px;
+  margin-bottom: 0px;
+  font-weight: normal;
+  font-size: 3em;
+}
+
+a {
+  font-family: "Source Code Pro", monospace;
+  color: #05ff00;
+  text-decoration: none;
+  padding: 0px 10px 10px 0px;
+}
+  
+p {
+  margin-top: 8px;
+}
