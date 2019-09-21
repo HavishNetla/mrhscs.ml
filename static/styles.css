@@ -44,3 +44,11 @@ a {
 p {
   margin-top: 8px;
 }
+
+#file {
+  text-decoration: underline;
+}
+
+#comp {
+  width: 65%;
+}

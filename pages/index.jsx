@@ -13,16 +13,19 @@ export default function Index() {
             src="https://ipfs.yellowiki.xyz/ipfs/QmPApcKgZHbw4UEHVwADqMLV8wRVrpXbhV3kSBFUYCTmH8"
           />
           <p>
-            <Link id="link" href="https://github.com/">
+            <Link id="link" href="https://github.com/MRHS-Programming">
               [Github]
             </Link>{' '}
-            <Link id="link" href="https://groupme.com/en-US/">
+            <Link
+              id="link"
+              href="https://groupme.com/join_group/53521502/ygbNwc0O"
+            >
               [GroupMe]
             </Link>{' '}
             <Link id="link" href="/files">
               [Files]
             </Link>{' '}
-            <Link id="link" href="https://de">
+            <Link id="link" href="/competitions">
               [Competitions]
             </Link>
           </p>
