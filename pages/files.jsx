@@ -1,17 +1,10 @@
 import { Container } from 'react-grid-system'
-import Link from 'next/link'
 import Layout from '../components/Layout'
 
 export default () => (
   <Layout>
     <Container>
-      <p style={{ paddingTop: '15px' }}>
-        <Link id="link" href="/">
-          [Home]
-        </Link>
-      </p>
-
-      <h1>Index of /Files</h1>
+      <h1>Index of /files</h1>
 
       <table style={{ paddingTop: '25px', width: '100%', textAlign: 'left' }}>
         <tr>
@@ -22,13 +15,13 @@ export default () => (
           <td>
             <a
               id="file"
-              href="/static/MRHSProgrammingClub.pdf"
+              href="https://ipfs.yellowiki.xyz/ipfs/QmPNU4954i9PkEy2PkBnRCdXzwQ2zrqjoEDGzmCAWuGdY8/MRHSProgrammingClub.pdf"
               download="Day One Power Point"
             >
-              DayOnePowerPoint.pptx
+              DayOnePowerPoint.pdf
             </a>
           </td>
-          <td>2019-9-10</td>
+          <td>2019-09-10</td>
         </tr>
       </table>
     </Container>

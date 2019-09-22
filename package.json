@@ -1,9 +1,11 @@
 {
   "dependencies": {
+    "@use-it/event-listener": "^0.1.3",
     "next": "^9.0.6",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-grid-system": "^5.0.2"
+    "react-grid-system": "^5.0.2",
+    "react-use": "^12.2.0"
   },
   "scripts": {
     "dev": "next",
@@ -12,6 +14,6 @@
     "export": "next build && next export"
   },
   "devDependencies": {
-    "eslint-config-lemon": "^0.4.11"
+    "eslint-config-lemon": "^0.4.12"
   }
 }
