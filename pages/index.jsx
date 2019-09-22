@@ -8,7 +8,13 @@ export default () => (
       <Scroll>
         {scroll => (
           <div
-            style={{ transform: `scale(${Math.max(1, 1.2 - scroll / 500)})` }}
+            style={{
+              transform: `scale(${Math.max(
+                1,
+                1.35 - scroll / 500,
+              )}) translateY(${Math.min(200, scroll)}px)`,
+              marginBottom: '175px',
+            }}
           >
             <img
               style={{
@@ -19,20 +25,19 @@ export default () => (
               alt="Club Logo"
               src="https://ipfs.yellowiki.xyz/ipfs/QmPApcKgZHbw4UEHVwADqMLV8wRVrpXbhV3kSBFUYCTmH8"
             />
+            <Scroll minScroll={50}>
+              <p>
+                <a href="https://github.com/MRHS-Programming">[GitHub]</a>{' '}
+                <a href="https://groupme.com/join_group/53521502/ygbNwc0O">
+                  [GroupMe]
+                </a>
+              </p>
+              <p>
+                <b>Tuesdays @ Room 121</b>
+              </p>
+            </Scroll>
           </div>
         )}
-      </Scroll>
-
-      <Scroll minScroll={100}>
-        <p>
-          <a href="https://github.com/MRHS-Programming">[GitHub]</a>{' '}
-          <a href="https://groupme.com/join_group/53521502/ygbNwc0O">
-            [GroupMe]
-          </a>
-        </p>
-        <p>
-          <b>Tuesdays @ Room 121</b>
-        </p>
       </Scroll>
     </div>
 

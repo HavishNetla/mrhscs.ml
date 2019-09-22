@@ -10,15 +10,8 @@ export default () => (
       boxShadow: 'black 0px 3px 20px 1px',
     }}
   >
-    <Link id="link" href="/">
-      [Home]
-    </Link>{' '}
-    <Link id="link" href="/files">
-      [Files]
-    </Link>{' '}
-    <Link id="link" href="/competitions">
-      [Competitions]
-    </Link>
+    <Link href="/">[Home]</Link> <Link href="/files">[Files]</Link>{' '}
+    <Link href="/competitions">[Competitions]</Link>
     <Scroll minScroll={50}>
       <div
         style={{
