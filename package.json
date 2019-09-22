@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "next": "^9.0.5",
+    "next": "^9.0.6",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-grid-system": "^5.0.2"
@@ -12,6 +12,6 @@
     "export": "next build && next export"
   },
   "devDependencies": {
-    "eslint-config-lemon": "^0.4.10"
+    "eslint-config-lemon": "^0.4.11"
   }
 }
