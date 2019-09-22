@@ -12,7 +12,7 @@ export default () => (
   >
     <Link href="/">[Home]</Link> <Link href="/files">[Files]</Link>{' '}
     <Link href="/competitions">[Competitions]</Link>
-    <Scroll minScroll={50}>
+    <Scroll minScroll={0}>
       <div
         style={{
           background: 'linear-gradient(to right, black, lime 10% 90%, black)',
