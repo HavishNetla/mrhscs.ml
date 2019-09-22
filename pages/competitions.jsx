@@ -6,7 +6,10 @@ export default () => (
   <Layout>
     <Container>
       <div style={{ textAlign: 'center' }}>
-        <img alt="CAC Logo" src="/static/cac1.png" />
+        <img
+          alt="CAC Logo"
+          src="https://ipfs.yellowiki.xyz/ipfs/QmPNU4954i9PkEy2PkBnRCdXzwQ2zrqjoEDGzmCAWuGdY8/cac1.png"
+        />
       </div>
 
       <p>
@@ -31,7 +34,10 @@ export default () => (
       <HorizontalLine />
 
       <div style={{ textAlign: 'center' }}>
-        <img alt="LHD Logo" src="/static/lhd.png" />
+        <img
+          alt="LHD Logo"
+          src="https://ipfs.yellowiki.xyz/ipfs/QmPNU4954i9PkEy2PkBnRCdXzwQ2zrqjoEDGzmCAWuGdY8/lhd.png"
+        />
       </div>
 
       <p>
