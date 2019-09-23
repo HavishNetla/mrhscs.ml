@@ -13,8 +13,8 @@ export default ({ children }) => (
       <title>MRHS Programming Club</title>
     </Head>
 
-    <div style={{ height: '99%', overflowY: 'auto' }}>
-      <div style={{ height: '50px' }} />
+    <div>
+      <div style={{ height: '70px' }} />
 
       {children}
     </div>
@@ -26,13 +26,10 @@ export default ({ children }) => (
         color: #05ff00;
         margin: 0;
         overflow-x: hidden;
-        height: 100%;
       }
 
-      #logo {
-        pointer-events: none;
-        user-select: none;
-        padding-bottom: 30px;
+      img {
+        max-width: 100%;
       }
 
       h1 {
