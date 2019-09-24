@@ -5,32 +5,33 @@ import HorizontalLine from '../components/HorizontalLine'
 export default () => (
   <Layout>
     <Container>
-    <div style={{ textAlign: 'center' }}>
-  <img
-    alt="PCTF Logo"
-    src="https://ipfs.yellowiki.xyz/ipfs/QmXVRBeBQ8osBtL6i6oGYfuskYqovFhLvyUGKVkTTwK7kk/pctf.svg"
-  />
-</div>
+      <div style={{ textAlign: 'center' }}>
+        <img
+          style={{ paddingTop: '10px' }}
+          alt="PCTF Logo"
+          src="https://ipfs.yellowiki.xyz/ipfs/QmXVRBeBQ8osBtL6i6oGYfuskYqovFhLvyUGKVkTTwK7kk/pctf.svg"
+        />
+      </div>
 
-<p>
-  Online cybersecurity competition where teams hack various things to find hidden "flags"
-</p>
-<p>
-  <b>Location:</b> Online/Carnegie Mellon University
-</p>
-<p>
-  <b>Date:</b> September 27, 2019
-</p>
-<p>
-  <b>Expenses:</b> $0
-</p>
-<p>
-  <b>Prizes:</b>
-</p>
-<p> - $14,000 in prizes</p>
-<p> - Paid trip to Carnegie Mellon University</p>
-<HorizontalLine />
-
+      <p>
+        Online cybersecurity competition where teams hack various things to find
+        hidden &quotflag&quot
+      </p>
+      <p>
+        <b>Location:</b> Online/Carnegie Mellon University
+      </p>
+      <p>
+        <b>Date:</b> September 27, 2019
+      </p>
+      <p>
+        <b>Expenses:</b> $0
+      </p>
+      <p>
+        <b>Prizes:</b>
+      </p>
+      <p> - $14,000 in prizes</p>
+      <p> - Paid trip to Carnegie Mellon University</p>
+      <HorizontalLine />
 
       <div style={{ textAlign: 'center' }}>
         <img
@@ -83,7 +84,6 @@ export default () => (
         <b>Prizes:</b>
       </p>
       <p> - Not released yet</p>
-
     </Container>
   </Layout>
 )
