@@ -3627,10 +3627,10 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@^0.4.12:
-  version "0.4.12"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.12.tgz#ac5d7f85e7011fbdb53645949772a0085d5aab9f"
-  integrity sha512-+agyHtyMauIpNlAUcvvPTnCkFNkFshy92GiVhNLmTObZtKRhRKQHZR1asmRkT7ES3bpbSEZbpXgdfS5QKkZ14g==
+eslint-config-lemon@^0.4.13:
+  version "0.4.13"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.13.tgz#613b1c9fda42d848cb084008656cfe8de5ce1a18"
+  integrity sha512-AQRtcqM0wXsintj5P9i9XiOfjvWfTRix7mtmSQfQyBP2VFx+Q+qYxChMGTU7z7Dkqohwe2LYhkCSO5OIOAck8Q==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^2.3.0"
     "@typescript-eslint/parser" "^2.3.0"
@@ -6881,10 +6881,10 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
   integrity sha512-tJBzzzIgnnRfEm046qRcURvwQnZVXmuCbscxUO5RWrGTXpon2d4c8mI0D8WE6ydVIm29JiLB6+RslkIvym9Rjw==
 
-react-use@^12.2.0:
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/react-use/-/react-use-12.2.0.tgz#9e669ae591f7e3b4b323870e7ff0724f6f69710e"
-  integrity sha512-jawCKYQcWDqwA/LMjAEfost6YQnQ6wYtSt1iPWd92Q48OdRAjFqs/GDgZsSzZBl8KsZodJxwr5pCpDn7uxtDZg==
+react-use@^12.2.1:
+  version "12.2.1"
+  resolved "https://registry.yarnpkg.com/react-use/-/react-use-12.2.1.tgz#2e3fb21d35706941a1b962ebd319f365cf5dd721"
+  integrity sha512-8NxS0lx6jAJNH3ISVY9oZ5+gg7hzyUoPqbyJT/f5TRPc5redZSp0+xuADG6IWGBl1LHfgv4mR/Nzo6ylqEuj1Q==
   dependencies:
     "@types/react-wait" "^0.3.0"
     copy-to-clipboard "^3.1.0"
