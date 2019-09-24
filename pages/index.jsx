@@ -59,7 +59,7 @@ export default () => (
             <p>Daniel Huang [Captain]</p>
             <p>Max Hollis [Captain]</p>
             <p>Satya Selvam [Officer]</p>
-            <p>Tanishq Ahuja [Off]</p>
+            <p>Tanishq Ahuja [Officer]</p>
           </Col>
 
           <Col md={4} style={{ margin: 4 }}>
