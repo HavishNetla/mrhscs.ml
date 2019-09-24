@@ -54,17 +54,18 @@ export default () => (
             </p>
 
             <h1>Leadership</h1>
-            <p>Jeffrey Yang</p>
-            <p>Havish Netla</p>
-            <p>Daniel Huang</p>
-            <p>Max Hollis</p>
-            <p>Satya Selvam</p>
-            <p>Tanishq Ahuja</p>
+            <p>Jeffrey Yang [President]</p>
+            <p>Havish Netla [President]</p>
+            <p>Daniel Huang [Captain]</p>
+            <p>Max Hollis [Captain]</p>
+            <p>Satya Selvam [Officer]</p>
+            <p>Tanishq Ahuja [Officer]</p>
           </Col>
 
           <Col md={4} style={{ margin: 4 }}>
             <h1>Schedule</h1>
             <p>2019-09-24 Next Meeting</p>
+            <p>2019-09-27 PicoCTF Begins</p>
             <p>2019-11-01 CAC Submission</p>
           </Col>
         </Row>
