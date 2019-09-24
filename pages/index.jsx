@@ -54,12 +54,12 @@ export default () => (
             </p>
 
             <h1>Leadership</h1>
-            <p>Jeffrey Yang (pres)</p>
-            <p>Havish Netla (pres)</p>
-            <p>Daniel Huang (capt)</p>
-            <p>Max Hollis (capt)</p>
-            <p>Satya Selvam (offr)</p>
-            <p>Tanishq Ahuja (offr)</p>
+            <p>Jeffrey Yang [President]</p>
+            <p>Havish Netla [President]</p>
+            <p>Daniel Huang [Captain]</p>
+            <p>Max Hollis [Captain]</p>
+            <p>Satya Selvam [Officer]</p>
+            <p>Tanishq Ahuja [Off]</p>
           </Col>
 
           <Col md={4} style={{ margin: 4 }}>
