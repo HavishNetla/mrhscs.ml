@@ -14,7 +14,7 @@ export default () => (
         <tr>
           <td>
             <a
-              id="file"
+              style={{ marginLeft: '0px' }}
               href="https://ipfs.yellowiki.xyz/ipfs/QmPNU4954i9PkEy2PkBnRCdXzwQ2zrqjoEDGzmCAWuGdY8/MRHSProgrammingClub.pdf"
               download="Day One Power Point"
             >
