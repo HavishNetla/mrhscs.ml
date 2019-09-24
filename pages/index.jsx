@@ -65,6 +65,7 @@ export default () => (
           <Col md={4} style={{ margin: 4 }}>
             <h1>Schedule</h1>
             <p>2019-09-24 Next Meeting</p>
+            <p>2019-09-27 PicoCTF 2019 Opens</p>
             <p>2019-11-01 CAC Submission</p>
           </Col>
         </Row>
