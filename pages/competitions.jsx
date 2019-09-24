@@ -15,7 +15,7 @@ export default () => (
 
       <p>
         Online cybersecurity competition where teams hack various things to find
-        hidden &quot;flag&quot;
+        hidden &quot;flags&quot;
       </p>
       <p>
         <b>Location:</b> Online/Carnegie Mellon University
