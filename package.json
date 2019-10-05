@@ -5,7 +5,7 @@
     "react": "16.10.2",
     "react-dom": "16.10.2",
     "react-grid-system": "5.0.2",
-    "react-use": "12.2.2"
+    "react-use": "12.2.3"
   },
   "scripts": {
     "dev": "next",
