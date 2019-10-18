@@ -7425,10 +7425,10 @@ react-fast-compare@^2.0.4:
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-2.0.4.tgz#e84b4d455b0fec113e0402c329352715196f81f9"
   integrity sha512-suNP+J1VU1MWFKcyt7RtjiSWUjvidmQSlqu+eHslq+342xCbGTYmC0mEhPCOHxlW0CywylOC1u2DFAT+bv4dBw==
 
-react-grid-system@5.0.2:
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/react-grid-system/-/react-grid-system-5.0.2.tgz#ffe03ba57840271a6bfafc9856a9ca0633bf79b9"
-  integrity sha512-UJMPhI+/wsclsD+G6l0Z8hF1cq25SIW3VLmp+gLDaNs9hsMBvJHFKzTnf6KMZd++YpiB26aZr4ykhQDe/uPE7Q==
+react-grid-system@6.0.2:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/react-grid-system/-/react-grid-system-6.0.2.tgz#3a619e243b41ae0add7a502724b3bb03e8cd3d4c"
+  integrity sha512-mt3kJ/PRMG0TzV6iMSNZ5AmFNjrv1nf8WFBfrhyhhZPw1X4aeXyZUx+VCB5lFXwufbz9pCKfMui4w7xxjTujHg==
   dependencies:
     prop-types "^15.7.2"
 
