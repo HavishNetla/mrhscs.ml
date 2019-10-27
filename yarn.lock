@@ -3725,10 +3725,10 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.13:
-  version "0.4.13"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.13.tgz#613b1c9fda42d848cb084008656cfe8de5ce1a18"
-  integrity sha512-AQRtcqM0wXsintj5P9i9XiOfjvWfTRix7mtmSQfQyBP2VFx+Q+qYxChMGTU7z7Dkqohwe2LYhkCSO5OIOAck8Q==
+eslint-config-lemon@0.4.15:
+  version "0.4.15"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.15.tgz#8125d0fba0da5ac9d435291d2cc9df9a1ef9f368"
+  integrity sha512-SJsEpG5CKn18d2ykkVfdLDKCff6McD0n6OdUekXhLgD3fLdWyDwTuOoRTKUqw1tydkEi+BXZ0lNe2LBngYys2A==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^2.3.0"
     "@typescript-eslint/parser" "^2.3.0"
@@ -3737,7 +3737,7 @@ eslint-config-lemon@0.4.13:
     eslint "^6.4.0"
     eslint-config-airbnb "18.0.1"
     eslint-config-prettier "^6.3.0"
-    eslint-config-xo "^0.26.0"
+    eslint-config-xo "^0.27.0"
     eslint-config-xo-react "^0.20.0"
     eslint-plugin-import "^2.18.2"
     eslint-plugin-jsx-a11y "^6.2.3"
@@ -3764,10 +3764,10 @@ eslint-config-xo-react@^0.20.0:
   resolved "https://registry.yarnpkg.com/eslint-config-xo-react/-/eslint-config-xo-react-0.20.0.tgz#b20dc454ff3407eb90934d6691618c75f39f2f68"
   integrity sha512-or9vqE6WCsieEh9Bp6QZQEG7jOWLeGrAq/f/82D/f3mNICgYFW6SfEzKyWl34P3XkjIH/tNJDrf1hhPf5hWvxg==
 
-eslint-config-xo@^0.26.0:
-  version "0.26.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-xo/-/eslint-config-xo-0.26.0.tgz#19dcfb1e3038dd440f5c5e4b4d11bb3128801b24"
-  integrity sha512-l+93kmBSNr5rMrsqwC6xVWsi8LI4He3z6jSk38e9bAkMNsVsQ8XYO+qzXfJFgFX4i/+hiTswyHtl+nDut9rPaA==
+eslint-config-xo@^0.27.0:
+  version "0.27.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-xo/-/eslint-config-xo-0.27.2.tgz#71aff3d5b5554e9e5b5e1853e21da7799bb53f1f"
+  integrity sha512-qEuZP0zNQkWpOdNZvWnfY2GNp1AZ33uXgeOXl4DN5YVLHFvekHbeSM2FFZ8A489fp1rCCColVRlJsYMf28o4DA==
 
 eslint-import-resolver-node@^0.3.2:
   version "0.3.2"
