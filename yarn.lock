@@ -5298,10 +5298,10 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
   integrity sha512-tJBzzzIgnnRfEm046qRcURvwQnZVXmuCbscxUO5RWrGTXpon2d4c8mI0D8WE6ydVIm29JiLB6+RslkIvym9Rjw==
 
-react-use@13.5.0:
-  version "13.5.0"
-  resolved "https://registry.yarnpkg.com/react-use/-/react-use-13.5.0.tgz#5fe85278bf2ef5655b8458cd475ef9eba9b78261"
-  integrity sha512-AX9p66K5m5J2WSYrzT/0eB6yG4VheOfgRinNcYcf0sEPbtBkGSbqR3cd3dfrm7XEa/Fjrt8jVNeVxLyKQmlITg==
+react-use@13.6.1:
+  version "13.6.1"
+  resolved "https://registry.yarnpkg.com/react-use/-/react-use-13.6.1.tgz#e83c01489dffedf7e4f8b1df8e92de40f9ae46d3"
+  integrity sha512-vtnzgagK3zZ8IdL3+hh0ATRjTuDTMbe1toWJRSCwbk3iTfky3gDM+CKFo5Q/ws897N7tGAhveVVivw5iHDE3kg==
   dependencies:
     copy-to-clipboard "^3.2.0"
     nano-css "^5.2.1"
