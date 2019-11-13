@@ -48,10 +48,10 @@ export default () => (
             </p>
 
             <h1>Leadership</h1>
-            <p>Jeffrey Yang [President]</p>
             <p>Havish Netla [President]</p>
-            <p>Daniel Huang [Captain]</p>
+            <p>Jeffrey Yang [President]</p>
             <p>Max Hollis [Captain]</p>
+            <p>Daniel Huang [Captain]</p>
             <p>Satya Selvam [Captain]</p>
           </Col>
 
