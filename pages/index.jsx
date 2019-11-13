@@ -27,13 +27,7 @@ export default () => (
             />
             <Scroll minScroll={50}>
               <p>
-                <a href="https://github.com/MRHS-Programming">[GitHub]</a>{' '}
-                <a href="https://groupme.com/join_group/53521502/ygbNwc0O">
-                  [GroupMe]
-                </a>
-              </p>
-              <p>
-                <b>Tuesdays @ Room 121</b>
+                <b>TUESDAYS IN ROOM 121</b>
               </p>
             </Scroll>
           </div>
@@ -58,15 +52,12 @@ export default () => (
             <p>Havish Netla [President]</p>
             <p>Daniel Huang [Captain]</p>
             <p>Max Hollis [Captain]</p>
-            <p>Satya Selvam [Officer]</p>
-            <p>Tanishq Ahuja [Officer]</p>
+            <p>Satya Selvam [Captain]</p>
           </Col>
 
           <Col md={4} style={{ margin: 4 }}>
             <h1>Schedule</h1>
-            <p>2019-09-24 Next Meeting</p>
-            <p>2019-09-27 PicoCTF Begins</p>
-            <p>2019-11-01 CAC Submission</p>
+            <p>2020-2-23 CAC Submission</p>
           </Col>
         </Row>
       </Scroll>
