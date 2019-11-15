@@ -2452,10 +2452,10 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.25:
-  version "0.4.25"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.25.tgz#7bc6e63bd8d59c92ca021c5f7e41bfe6ca321b3d"
-  integrity sha512-m9iNq4izfLJ8aHXWnzKkinJMdw1llf3dK8LYpiu8Ydm15Jf7Ku/535Ar4sooYv7wzB+MjrjelkybISVRMwZR+Q==
+eslint-config-lemon@0.4.26:
+  version "0.4.26"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.26.tgz#7b6ffd1ef54360faed5cb4a519360821f95776f6"
+  integrity sha512-2qCrvDL5bhxRJAyhw6s6ho5zCWssXhZ5pa8Ua8wH7C24swEdSfQfoCwzNuns/70J1iN1HFttBw9wzItg4Z8c9A==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.7.0"
     "@typescript-eslint/parser" "2.7.0"
@@ -2470,7 +2470,7 @@ eslint-config-lemon@0.4.25:
     eslint-plugin-prefer-arrow "1.1.6"
     eslint-plugin-prettier "3.1.1"
     eslint-plugin-react "7.16.0"
-    eslint-plugin-react-hooks "2.2.0"
+    eslint-plugin-react-hooks "2.3.0"
     merge-options "2.0.0"
     prettier "1.19.1"
     typescript "3.7.2"
@@ -2552,10 +2552,10 @@ eslint-plugin-prettier@3.1.1:
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
-eslint-plugin-react-hooks@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-2.2.0.tgz#078264e9e388da6929ace09d6abe92c85963aff4"
-  integrity sha512-jSlnBjV2cmyIeL555H/FbvuSbQ1AtpHjLMHuPrQnt1eVA6lX8yufdygh7AArI2m8ct7ChHGx2uOaCuxq2MUn6g==
+eslint-plugin-react-hooks@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-2.3.0.tgz#53e073961f1f5ccf8dd19558036c1fac8c29d99a"
+  integrity sha512-gLKCa52G4ee7uXzdLiorca7JIQZPPXRAQDXV83J4bUEeUuc5pIEyZYAZ45Xnxe5IuupxEqHS+hUhSLIimK1EMw==
 
 eslint-plugin-react@7.16.0:
   version "7.16.0"
