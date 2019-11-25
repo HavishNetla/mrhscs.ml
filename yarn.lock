@@ -2460,15 +2460,15 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.30:
-  version "0.4.30"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.30.tgz#3db5f09cc13f6c486711e29016123e120c0d2489"
-  integrity sha512-P9p0ehlzTVr8TiYAVU+os7nASTyU6V/Dzl/O/Bv1SDe62XjeXdH0a42xs0CJs0OqeffgAKPClbe16QESpjid3g==
+eslint-config-lemon@0.4.31:
+  version "0.4.31"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.31.tgz#00a247b0029fd853bc21a55cfbc8b592f36a5391"
+  integrity sha512-hG67q+3azX+6ThQHkqTRDf8XLnbT+PmcbzqOzRJ6kgKqLJBaLw1z9K2Ifx3905KmvLZ7qHv5mQiU4HZ0X5jtyA==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.8.0"
     "@typescript-eslint/parser" "2.8.0"
     babel-eslint "10.0.3"
-    eslint "6.7.0"
+    eslint "6.7.1"
     eslint-config-airbnb "18.0.1"
     eslint-config-prettier "6.7.0"
     eslint-config-xo "0.27.2"
@@ -2608,10 +2608,10 @@ eslint-visitor-keys@^1.0.0, eslint-visitor-keys@^1.1.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-1.1.0.tgz#e2a82cea84ff246ad6fb57f9bde5b46621459ec2"
   integrity sha512-8y9YjtM1JBJU/A9Kc+SbaOV4y29sSWckBwMHa+FGtVj5gN/sbnKDf6xJUl+8g7FAij9LVaP8C24DUiH/f/2Z9A==
 
-eslint@6.7.0:
-  version "6.7.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-6.7.0.tgz#766162e383b236e61d873697f82c3a3e41392020"
-  integrity sha512-dQpj+PaHKHfXHQ2Imcw5d853PTvkUGbHk/MR68KQUl98EgKDCdh4vLRH1ZxhqeQjQFJeg8fgN0UwmNhN3l8dDQ==
+eslint@6.7.1:
+  version "6.7.1"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-6.7.1.tgz#269ccccec3ef60ab32358a44d147ac209154b919"
+  integrity sha512-UWzBS79pNcsDSxgxbdjkmzn/B6BhsXMfUaOHnNwyE8nD+Q6pyT96ow2MccVayUTV4yMid4qLhMiQaywctRkBLA==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     ajv "^6.10.0"
