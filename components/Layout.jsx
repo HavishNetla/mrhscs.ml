@@ -43,7 +43,7 @@ export default ({ children }) => (
         font-family: Inconsolata, monospace;
         color: #05ff00;
         text-decoration: none;
-        margin: 0px 10px;
+        margin: 0px 10px 0px 0px;
         transition: 300ms;
         position: relative;
       }

@@ -7,83 +7,65 @@ export default () => (
     <Container>
       <div style={{ textAlign: 'center' }}>
         <img
-          style={{ paddingTop: '10px' }}
-          alt="PCTF Logo"
-          src="https://ipfs.yellowiki.xyz/ipfs/QmXVRBeBQ8osBtL6i6oGYfuskYqovFhLvyUGKVkTTwK7kk/pctf.svg"
+          style={{
+            width: '30em',
+            marginTop: '10px',
+            border: '2px solid #ffffff',
+          }}
+          alt="Advent of Code Logo"
+          src="https://cdn.discordapp.com/attachments/592120406781984783/651158662387204098/EFs21m0XYAIjq4T.png"
         />
       </div>
 
       <p>
-        Online cybersecurity competition where teams hack various things to find
-        hidden &quot;flags&quot;
+        Advent of Code is an Advent calendar of small programming puzzles for a
+        variety of skill sets and skill levels that can be solved in any
+        programming language you like. People use them as a speed contest,
+        practice problems, or to challenge each other.
       </p>
       <p>
-        <b>Location:</b> Online/Carnegie Mellon University
+        <b>Leaderboard Join Code:</b> 662771-3c1ecf18
       </p>
       <p>
-        <b>Date:</b> September 27, 2019
+        <b>Location:</b> Online
+      </p>
+      <p>
+        <b>Date:</b> December 1, 2019 - December 25, 2019
+      </p>
+      <p>
+        <b>Expenses:</b> $0
+      </p>
+      <HorizontalLine />
+
+      <div style={{ textAlign: 'center' }}>
+        <img
+          style={{
+            paddingTop: '10px',
+            width: '30em',
+          }}
+          alt="HSPC Logo"
+          src="https://www.cs.umd.edu/Outreach/hsContest19/assets/hspc-logo.png"
+        />
+      </div>
+
+      <p>
+        The UMD High School Programming Contest is a 3 hour competition where
+        high school students from the DC metropolitan area compete in teams of
+        four to demonstrate their programming skills and problem solving
+        abilities.
+      </p>
+      <p>
+        <b>Location:</b> University of Maryland College Park, MD
+      </p>
+      <p>
+        <b>Date:</b> February 23, 2019
       </p>
       <p>
         <b>Expenses:</b> $0
       </p>
       <p>
-        <b>Prizes:</b>
+        <b>Awards:</b> Gannon Prize and Certificates
       </p>
-      <p> - $14,000 in prizes</p>
-      <p> - Paid trip to Carnegie Mellon University</p>
-      <HorizontalLine />
-
-      <div style={{ textAlign: 'center' }}>
-        <img
-          alt="CAC Logo"
-          src="https://ipfs.yellowiki.xyz/ipfs/QmPNU4954i9PkEy2PkBnRCdXzwQ2zrqjoEDGzmCAWuGdY8/cac1.png"
-        />
-      </div>
-
-      <p>
-        Online competition where you make an app and create a video about it.
-      </p>
-      <p>
-        <b>Location:</b> Online/Capitol Hill
-      </p>
-      <p>
-        <b>Date:</b> November 1, 2019
-      </p>
-      <p>
-        <b>Expenses:</b> $0
-      </p>
-      <p>
-        <b>Prizes:</b>
-      </p>
-      <p> - Meet Congressman Elijah Cummings</p>
-      <p> - $500 in AWS Credits</p>
-      <p> - Free trip to Capitol Hill</p>
-
-      <HorizontalLine />
-
-      <div style={{ textAlign: 'center' }}>
-        <img
-          alt="LHD Logo"
-          src="https://ipfs.yellowiki.xyz/ipfs/QmPNU4954i9PkEy2PkBnRCdXzwQ2zrqjoEDGzmCAWuGdY8/lhd.png"
-        />
-      </div>
-
-      <p>
-        Local hackathon where you build software and showcase it in one day.
-      </p>
-      <p>
-        <b>Location:</b> University Of Maryland
-      </p>
-      <p>
-        <b>Date:</b> December 2019
-      </p>
-      <p>
-        <b>Expenses:</b> Hackers must provide their own transportation to/from
-      </p>
-      <p>
-        <b>Prizes:</b>
-      </p>
-      <p> - Not released yet</p>
     </Container>
   </Layout>
 )
