@@ -2485,10 +2485,10 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.36:
-  version "0.4.36"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.36.tgz#8be6efee50be1b05f57910c56b52bdd92934b73e"
-  integrity sha512-GOobKRjSDRSUmR0+Uk0NQqIGY8RdCbXtlXbvwdGK9UXHZudbSBFDiWv1sKA7zXOsTXwrLGD6mzQdpSaoGzZtmQ==
+eslint-config-lemon@0.4.37:
+  version "0.4.37"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.37.tgz#8fac7a0990287abe3a1c62fe4d8c86655f77a09a"
+  integrity sha512-2JoLQbF8ddC7JHC99vNtq79TMR1rG9EqOYy4Zv7T5oGGcFrR688s/A8OcJmzJPog4M6JV/p9ZTmKc9K/QZjg6Q==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.10.0"
     "@typescript-eslint/parser" "2.10.0"
@@ -2506,7 +2506,7 @@ eslint-config-lemon@0.4.36:
     eslint-plugin-react-hooks "2.3.0"
     merge-options "2.0.0"
     prettier "1.19.1"
-    typescript "3.7.2"
+    typescript "3.7.3"
 
 eslint-config-prettier@6.7.0:
   version "6.7.0"
@@ -6382,10 +6382,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@3.7.2:
-  version "3.7.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.2.tgz#27e489b95fa5909445e9fef5ee48d81697ad18fb"
-  integrity sha512-ml7V7JfiN2Xwvcer+XAf2csGO1bPBdRbFCkYBczNZggrBZ9c7G3riSUeJmqEU5uOtXNPMhE3n+R4FA/3YOAWOQ==
+typescript@3.7.3:
+  version "3.7.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.3.tgz#b36840668a16458a7025b9eabfad11b66ab85c69"
+  integrity sha512-Mcr/Qk7hXqFBXMN7p7Lusj1ktCBydylfQM/FZCk5glCNQJrCUKPkMHdo9R0MTFWsC/4kPFvDS0fDPvukfCkFsw==
 
 unfetch@4.1.0:
   version "4.1.0"
