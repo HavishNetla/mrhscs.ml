@@ -2709,10 +2709,10 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.39:
-  version "0.4.39"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.39.tgz#c9dc2995827c6333726e8fc48e7e6e017ce63d5b"
-  integrity sha512-NatpZTs71LpxXYmij1EkvwZI1qzvHM//vhv5zagBWB04IIKeYR2ZIUob0fOfRElCjq6Rd03Kb6PZrlanob/yew==
+eslint-config-lemon@0.4.40:
+  version "0.4.40"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.40.tgz#ddedfefc22cf7bed9ffb08857bed393c656cf4c2"
+  integrity sha512-isSHMhnuOAqNjItGFmSpmCiPc3UDkBdtTDS49zTs7pq1XwPJeK8jaePuH+WcqU7xqO6wf6XjuehceNExnI9r9w==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.11.0"
     "@typescript-eslint/parser" "2.11.0"
@@ -2725,7 +2725,7 @@ eslint-config-lemon@0.4.39:
     eslint-plugin-import "2.19.1"
     eslint-plugin-jsx-a11y "6.2.3"
     eslint-plugin-prefer-arrow "1.1.7"
-    eslint-plugin-prettier "3.1.1"
+    eslint-plugin-prettier "3.1.2"
     eslint-plugin-react "7.17.0"
     eslint-plugin-react-hooks "2.3.0"
     merge-options "2.0.0"
@@ -2808,10 +2808,10 @@ eslint-plugin-prefer-arrow@1.1.7:
   resolved "https://registry.yarnpkg.com/eslint-plugin-prefer-arrow/-/eslint-plugin-prefer-arrow-1.1.7.tgz#4534dd8d2e519cd579a951f95802137365d524a2"
   integrity sha512-epsA4g804mRovlOHSbeO1xxW7REGeUjULRME9MJTJDOVscNIA01AkR66TP4cmHDfD+w72EQ9cPhf37MbZiFI2w==
 
-eslint-plugin-prettier@3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.1.tgz#507b8562410d02a03f0ddc949c616f877852f2ba"
-  integrity sha512-A+TZuHZ0KU0cnn56/9mfR7/KjUJ9QNVXUhwvRFSR7PGPe0zQR6PTkmyqg1AtUUEOzTqeRsUwyKFh0oVZKVCrtA==
+eslint-plugin-prettier@3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.2.tgz#432e5a667666ab84ce72f945c72f77d996a5c9ba"
+  integrity sha512-GlolCC9y3XZfv3RQfwGew7NnuFDKsfI4lbvRK+PIIo23SFH+LemGs4cKwzAaRa+Mdb+lQO/STaIayno8T5sJJA==
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
