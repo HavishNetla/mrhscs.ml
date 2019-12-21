@@ -2714,15 +2714,15 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.41:
-  version "0.4.41"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.41.tgz#33f7b01d78a63a480cff561823f3cfe28a6d6db4"
-  integrity sha512-vRxQBuWwnAreygQoJWIZzFOQ52cFCm6e7ywgulIgUy6QLG23pmuB4sMPPZ/K2AS+p4tWp70yiiU2P+QTqZS5Ow==
+eslint-config-lemon@0.4.43:
+  version "0.4.43"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.43.tgz#86b8f85b68d95da7b43bb86829a2dfe10a859818"
+  integrity sha512-BRqpUt6Nn9MvIQ5TaNVogabYgdETIVzs6DG15W2/9qPjCsPaYZSGfO0RS1BjhYK7HULIM5cGyfRNcH0uY0UflA==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.12.0"
     "@typescript-eslint/parser" "2.12.0"
     babel-eslint "10.0.3"
-    eslint "6.7.2"
+    eslint "6.8.0"
     eslint-config-airbnb "18.0.1"
     eslint-config-prettier "6.7.0"
     eslint-config-xo "0.27.2"
@@ -2735,7 +2735,7 @@ eslint-config-lemon@0.4.41:
     eslint-plugin-react-hooks "2.3.0"
     merge-options "2.0.0"
     prettier "1.19.1"
-    typescript "3.7.3"
+    typescript "3.7.4"
 
 eslint-config-prettier@6.7.0:
   version "6.7.0"
@@ -2869,10 +2869,10 @@ eslint-visitor-keys@^1.0.0, eslint-visitor-keys@^1.1.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-1.1.0.tgz#e2a82cea84ff246ad6fb57f9bde5b46621459ec2"
   integrity sha512-8y9YjtM1JBJU/A9Kc+SbaOV4y29sSWckBwMHa+FGtVj5gN/sbnKDf6xJUl+8g7FAij9LVaP8C24DUiH/f/2Z9A==
 
-eslint@6.7.2:
-  version "6.7.2"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-6.7.2.tgz#c17707ca4ad7b2d8af986a33feba71e18a9fecd1"
-  integrity sha512-qMlSWJaCSxDFr8fBPvJM9kJwbazrhNcBU3+DszDW1OlEwKBBRWsJc7NJFelvwQpanHCR14cOLD41x8Eqvo3Nng==
+eslint@6.8.0:
+  version "6.8.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-6.8.0.tgz#62262d6729739f9275723824302fb227c8c93ffb"
+  integrity sha512-K+Iayyo2LtyYhDSYwz5D5QdWw0hCacNzyq1Y821Xna2xSJj7cijoLLYmLxTQgcgZ9mC61nryMy9S7GRbYpI5Ig==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     ajv "^6.10.0"
@@ -6716,10 +6716,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@3.7.3:
-  version "3.7.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.3.tgz#b36840668a16458a7025b9eabfad11b66ab85c69"
-  integrity sha512-Mcr/Qk7hXqFBXMN7p7Lusj1ktCBydylfQM/FZCk5glCNQJrCUKPkMHdo9R0MTFWsC/4kPFvDS0fDPvukfCkFsw==
+typescript@3.7.4:
+  version "3.7.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.4.tgz#1743a5ec5fef6a1fa9f3e4708e33c81c73876c19"
+  integrity sha512-A25xv5XCtarLwXpcDNZzCGvW2D1S3/bACratYBx2sax8PefsFhlYmkQicKHvpYflFS8if4zne5zT5kpJ7pzuvw==
 
 unfetch@4.1.0:
   version "4.1.0"
