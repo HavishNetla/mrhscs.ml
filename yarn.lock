@@ -2714,17 +2714,17 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.44:
-  version "0.4.44"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.44.tgz#3019297c90253f585d86bc543ec36bb7caf033ed"
-  integrity sha512-tdY080ZrYVi282H7OXQwCfu4GzeuWX5IDg6EAgEhQxodjgRYe7k4tDueWHg7doZ4xXk63uzOR5p+k1duPFaFoA==
+eslint-config-lemon@0.4.45:
+  version "0.4.45"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.45.tgz#fcf36371fbd80cb3a7b625c30fb184e9f0407d09"
+  integrity sha512-dusXZVh67T567z7nDSLyCXwEk+rEpgne6NucEDDN6TXChcw32eybOGh0Yp0ilRXGYHTy5womTE9fVUUCef+Ggg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.13.0"
     "@typescript-eslint/parser" "2.13.0"
     babel-eslint "10.0.3"
     eslint "6.8.0"
     eslint-config-airbnb "18.0.1"
-    eslint-config-prettier "6.7.0"
+    eslint-config-prettier "6.8.0"
     eslint-config-xo "0.27.2"
     eslint-config-xo-react "0.20.0"
     eslint-plugin-import "2.19.1"
@@ -2737,10 +2737,10 @@ eslint-config-lemon@0.4.44:
     prettier "1.19.1"
     typescript "3.7.4"
 
-eslint-config-prettier@6.7.0:
-  version "6.7.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.7.0.tgz#9a876952e12df2b284adbd3440994bf1f39dfbb9"
-  integrity sha512-FamQVKM3jjUVwhG4hEMnbtsq7xOIDm+SY5iBPfR8gKsJoAB2IQnNF+bk1+8Fy44Nq7PPJaLvkRxILYdJWoguKQ==
+eslint-config-prettier@6.8.0:
+  version "6.8.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.8.0.tgz#36bd7559dcef9f97d7596779b38e6a879abb89d3"
+  integrity sha512-aq4M7mjjVregZ2l45O9qz6Mv6f5zVMl/IqfmUL8hNOoDAzVKYMhYPJytbqE/lPIVO1iMDXIFqjiEE59BfJZpZw==
   dependencies:
     get-stdin "^6.0.0"
 
