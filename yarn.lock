@@ -2731,10 +2731,10 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.50:
-  version "0.4.50"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.50.tgz#64f5719ec611d91c470c19810d303ce2deec10a8"
-  integrity sha512-4cSHrJQa25pPSzy2r34YJYSahKlQ9WmTZVdinT0qhmIEYBN7cTqCjuesgFzM96lv80Ya+EXqxkTWF1NhmSXgrQ==
+eslint-config-lemon@0.4.51:
+  version "0.4.51"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.51.tgz#3ea9518943fbfea458202260a33338fdb3677bb2"
+  integrity sha512-d/212KxHxHHe9pAcxu6U8U5sLPgN8GyPreyjmrMW90RMjaEsY/DGy2f24nzMLs1GSgLBndS5Kt8RDy8qMwA5nA==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.15.0"
     "@typescript-eslint/parser" "2.15.0"
@@ -2744,7 +2744,7 @@ eslint-config-lemon@0.4.50:
     eslint-config-prettier "6.9.0"
     eslint-config-xo "0.27.2"
     eslint-config-xo-react "0.22.0"
-    eslint-plugin-import "2.19.1"
+    eslint-plugin-import "2.20.0"
     eslint-plugin-jsx-a11y "6.2.3"
     eslint-plugin-prefer-arrow "1.1.7"
     eslint-plugin-prettier "3.1.2"
@@ -2792,10 +2792,10 @@ eslint-plugin-eslint-plugin@^2.1.0:
   resolved "https://registry.yarnpkg.com/eslint-plugin-eslint-plugin/-/eslint-plugin-eslint-plugin-2.1.0.tgz#a7a00f15a886957d855feacaafee264f039e62d5"
   integrity sha512-kT3A/ZJftt28gbl/Cv04qezb/NQ1dwYIbi8lyf806XMxkus7DvOVCLIfTXMrorp322Pnoez7+zabXH29tADIDg==
 
-eslint-plugin-import@2.19.1:
-  version "2.19.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.19.1.tgz#5654e10b7839d064dd0d46cd1b88ec2133a11448"
-  integrity sha512-x68131aKoCZlCae7rDXKSAQmbT5DQuManyXo2sK6fJJ0aK5CWAkv6A6HJZGgqC8IhjQxYPgo6/IY4Oz8AFsbBw==
+eslint-plugin-import@2.20.0:
+  version "2.20.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.20.0.tgz#d749a7263fb6c29980def8e960d380a6aa6aecaa"
+  integrity sha512-NK42oA0mUc8Ngn4kONOPsPB1XhbUvNHqF+g307dPV28aknPoiNnKLFd9em4nkswwepdF5ouieqv5Th/63U7YJQ==
   dependencies:
     array-includes "^3.0.3"
     array.prototype.flat "^1.2.1"
