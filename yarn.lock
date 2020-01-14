@@ -1034,6 +1034,11 @@
   resolved "https://registry.yarnpkg.com/@types/eslint-visitor-keys/-/eslint-visitor-keys-1.0.0.tgz#1ee30d79544ca84d68d4b3cdb0af4f205663dd2d"
   integrity sha512-OCutwjDZ4aFS6PB1UZ988C4YgwlBHJd6wCeQqaLdmadZ/7e+w79+hbMUFC1QXDNCmdyoRfAFdm0RypzwR+Qpag==
 
+"@types/js-cookie@2.2.4":
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/@types/js-cookie/-/js-cookie-2.2.4.tgz#f79720b4755aa197c2e15e982e2f438f5748e348"
+  integrity sha512-WTfSE1Eauak/Nrg6cA9FgPTFvVawejsai6zXoq0QYTQ3mxONeRtGhKxa7wMlUzWWmzrmTeV+rwLjHgsCntdrsA==
+
 "@types/json-schema@^7.0.3":
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.3.tgz#bdfd69d61e464dcc81b25159c270d75a73c1a636"
@@ -5731,11 +5736,12 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
   integrity sha512-tJBzzzIgnnRfEm046qRcURvwQnZVXmuCbscxUO5RWrGTXpon2d4c8mI0D8WE6ydVIm29JiLB6+RslkIvym9Rjw==
 
-react-use@13.16.0:
-  version "13.16.0"
-  resolved "https://registry.yarnpkg.com/react-use/-/react-use-13.16.0.tgz#638ff41c8fd2917a89c693eb0e312ca5489a3fda"
-  integrity sha512-/MVaZdKE0xOXqU+6p+8XkSswfu+xrUrrXWgV8Hyoca21b4tudmLJ9BRQqO2gQpjcsnBiYKd1DzmYX6Re8bUY0A==
+react-use@13.16.1:
+  version "13.16.1"
+  resolved "https://registry.yarnpkg.com/react-use/-/react-use-13.16.1.tgz#53cb84e464c4ceb2a8ebbc8d70fc5fd2042c6810"
+  integrity sha512-dhm9q8a3wgN6lN/0sx/Ixw+7iN4qkkUo+9h6Xb+XOkyhCB/FR5f82TbE3xnb+yaFVVygBAo1DbghaEDcJH3Zmg==
   dependencies:
+    "@types/js-cookie" "2.2.4"
     "@xobotyi/scrollbar-width" "1.5.0"
     copy-to-clipboard "^3.2.0"
     fast-shallow-equal "^1.0.0"
