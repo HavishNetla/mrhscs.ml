@@ -2869,10 +2869,10 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.58:
-  version "0.4.58"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.58.tgz#2d7ffc3cca24fc7c3123798b95675f7e201a5fa7"
-  integrity sha512-D2VEPQijY2upsdZ0ued2zIFmywRFJ3WgMXKKRwosrAiD/7gmJVLnt9RjJXGlEsJrSmPZbJVJcOK+bAf5DSJuWw==
+eslint-config-lemon@0.4.59:
+  version "0.4.59"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.59.tgz#213594c69401b1b9d3f430b26e04301c1e09aab6"
+  integrity sha512-8DREPoZc9W4/tqIjocyNB+KO9hKQep2kPyZ3h6nmpwU4bl9dAwY6AlAmMgPhnDpAzTxHdkuQ9oSVUijtg+K2Yw==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.18.0"
     "@typescript-eslint/parser" "2.18.0"
@@ -2886,7 +2886,7 @@ eslint-config-lemon@0.4.58:
     eslint-plugin-jsx-a11y "6.2.3"
     eslint-plugin-prefer-arrow "1.1.7"
     eslint-plugin-prettier "3.1.2"
-    eslint-plugin-react "7.18.1"
+    eslint-plugin-react "7.18.2"
     eslint-plugin-react-hooks "2.3.0"
     merge-options "2.0.0"
     prettier "1.19.1"
@@ -2975,10 +2975,10 @@ eslint-plugin-react-hooks@2.3.0:
   resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-2.3.0.tgz#53e073961f1f5ccf8dd19558036c1fac8c29d99a"
   integrity sha512-gLKCa52G4ee7uXzdLiorca7JIQZPPXRAQDXV83J4bUEeUuc5pIEyZYAZ45Xnxe5IuupxEqHS+hUhSLIimK1EMw==
 
-eslint-plugin-react@7.18.1:
-  version "7.18.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.18.1.tgz#6e305532ccd8393f45f35f058903fb1d0bf83235"
-  integrity sha512-GTAhnWckqzzQzbbmqfoOPtpuVJAUPGliNyJRedvyboxAnZlui0INTmfVzQB0WjK9lbqKXixptMsd98LKamccPA==
+eslint-plugin-react@7.18.2:
+  version "7.18.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.18.2.tgz#83d52cd783524cb5f6616e029c892ec08ee59e23"
+  integrity sha512-6m1zFCSB8OKVIVyGipz1TJxVuNfgvbbUa7O9fxqyyT0b15tB2X/rxMNCGQv3LTD4XOKmG/ONr52FZHur0OKFkg==
   dependencies:
     array-includes "^3.1.1"
     doctrine "^2.1.0"
