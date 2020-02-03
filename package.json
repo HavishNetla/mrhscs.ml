@@ -15,6 +15,6 @@
     "test": "eslint . --ext jsx"
   },
   "devDependencies": {
-    "eslint-config-lemon": "0.4.60"
+    "eslint-config-lemon": "0.4.61"
   }
 }
