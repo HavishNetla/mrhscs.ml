@@ -2199,7 +2199,7 @@ conf@5.0.0:
     pkg-up "^3.0.1"
     write-file-atomic "^3.0.0"
 
-confusing-browser-globals@^1.0.7:
+confusing-browser-globals@1.0.9, confusing-browser-globals@^1.0.7:
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/confusing-browser-globals/-/confusing-browser-globals-1.0.9.tgz#72bc13b483c0276801681871d4898516f8f54fdd"
   integrity sha512-KbS1Y0jMtyPgIxjO7ZzMAuUpAKMt1SzCL9fsrKsX6b0zJPTaT0SiSPmewwVZg9UAO83HVIlEhZF84LIjZ0lmAw==
@@ -2869,10 +2869,10 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.63:
-  version "0.4.63"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.63.tgz#c7e760d402c07f6bb0278b0cfbd7e93ba7af380a"
-  integrity sha512-Np+6svz0GSKlg2OYd47vmoR8aTwi8RmPb035kun8gJrlluv6i9HiL2Fb1foMZLg6VX6NDqbBFnEoDZWQV9Tv3Q==
+eslint-config-lemon@0.4.64:
+  version "0.4.64"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.64.tgz#5864662b406ca73d6372568c6d96b358f271ca27"
+  integrity sha512-CS0vOpkouQTSVXCVe8KTeg/BtUCzofKOph/35vIfjLN0DMXQG1DoV/ThEbjyjkjDVWlTfpRue35TpROGKsju2Q==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.19.2"
     "@typescript-eslint/parser" "2.19.2"
@@ -2880,7 +2880,7 @@ eslint-config-lemon@0.4.63:
     eslint "6.8.0"
     eslint-config-airbnb "18.0.1"
     eslint-config-prettier "6.10.0"
-    eslint-config-xo "0.27.2"
+    eslint-config-xo "0.29.0"
     eslint-config-xo-react "0.22.0"
     eslint-plugin-import "2.20.1"
     eslint-plugin-jsx-a11y "6.2.3"
@@ -2904,10 +2904,12 @@ eslint-config-xo-react@0.22.0:
   resolved "https://registry.yarnpkg.com/eslint-config-xo-react/-/eslint-config-xo-react-0.22.0.tgz#ea89519dbb223cf520ffba7f47a40099271ec331"
   integrity sha512-00QU9o4TpvfLEdowiiM9Xc53l3zJu+t0Ip/e+vJerH2k4RmOAXNLT6EG6iTnLNFa8BG7Icy6vn1zcSwfdN6CWQ==
 
-eslint-config-xo@0.27.2:
-  version "0.27.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-xo/-/eslint-config-xo-0.27.2.tgz#71aff3d5b5554e9e5b5e1853e21da7799bb53f1f"
-  integrity sha512-qEuZP0zNQkWpOdNZvWnfY2GNp1AZ33uXgeOXl4DN5YVLHFvekHbeSM2FFZ8A489fp1rCCColVRlJsYMf28o4DA==
+eslint-config-xo@0.29.0:
+  version "0.29.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-xo/-/eslint-config-xo-0.29.0.tgz#d67e514f1047cd5388f75c9c574015eff38c705e"
+  integrity sha512-T1pgAOcIRSPXlgQPWI8fxDpIU1XRFSQW1RxtvHJPnZUV5KaHW4juKZUdAmTaPqOV1cp0wIkP32kVO1vKMWk6Jw==
+  dependencies:
+    confusing-browser-globals "1.0.9"
 
 eslint-import-resolver-node@^0.3.2:
   version "0.3.2"
