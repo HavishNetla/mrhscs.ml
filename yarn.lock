@@ -2869,10 +2869,10 @@ eslint-config-airbnb@18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@0.4.64:
-  version "0.4.64"
-  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.64.tgz#5864662b406ca73d6372568c6d96b358f271ca27"
-  integrity sha512-CS0vOpkouQTSVXCVe8KTeg/BtUCzofKOph/35vIfjLN0DMXQG1DoV/ThEbjyjkjDVWlTfpRue35TpROGKsju2Q==
+eslint-config-lemon@0.4.65:
+  version "0.4.65"
+  resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.65.tgz#ab464bf83090c36d74c291186dbf7202656f847a"
+  integrity sha512-9SbXCSSzJqeLLJ/E7njJ9ngq+Rf1MJpDEmictn4NPRJrDBxEQ66ZoYWbmeMAeMLmXYYEaLrMN4vIB+THRhQRXg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.19.2"
     "@typescript-eslint/parser" "2.19.2"
@@ -2881,7 +2881,7 @@ eslint-config-lemon@0.4.64:
     eslint-config-airbnb "18.0.1"
     eslint-config-prettier "6.10.0"
     eslint-config-xo "0.29.0"
-    eslint-config-xo-react "0.22.0"
+    eslint-config-xo-react "0.23.0"
     eslint-plugin-import "2.20.1"
     eslint-plugin-jsx-a11y "6.2.3"
     eslint-plugin-prefer-arrow "1.1.7"
@@ -2899,10 +2899,10 @@ eslint-config-prettier@6.10.0:
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-config-xo-react@0.22.0:
-  version "0.22.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-xo-react/-/eslint-config-xo-react-0.22.0.tgz#ea89519dbb223cf520ffba7f47a40099271ec331"
-  integrity sha512-00QU9o4TpvfLEdowiiM9Xc53l3zJu+t0Ip/e+vJerH2k4RmOAXNLT6EG6iTnLNFa8BG7Icy6vn1zcSwfdN6CWQ==
+eslint-config-xo-react@0.23.0:
+  version "0.23.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-xo-react/-/eslint-config-xo-react-0.23.0.tgz#a6e4cfc3e1231cf9291fa19000f559dc53183090"
+  integrity sha512-yBNoMF6COjJLRijlWksC1Jws6CGWHMgTfR/PAReCdZUo5cg/ZsyNeZx/fntyU4SbARwW2RvuezMeKle+jI5yoA==
 
 eslint-config-xo@0.29.0:
   version "0.29.0"
