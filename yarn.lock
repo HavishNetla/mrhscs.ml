@@ -6114,10 +6114,10 @@ react-error-overlay@5.1.6:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.1.6.tgz#0cd73407c5d141f9638ae1e0c63e7b2bf7e9929d"
   integrity sha512-X1Y+0jR47ImDVr54Ab6V9eGk0Hnu7fVWGeHQSOXHf/C2pF9c6uy3gef8QUeuUiWlNb0i08InPSE5a/KJzNzw1Q==
 
-react-grid-system@6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/react-grid-system/-/react-grid-system-6.2.1.tgz#43c5d409907dfcbdc2c1cf03389f6977d544b14d"
-  integrity sha512-3yDWhrXrUvb5iZbAk0aPoNomTnSXB9u9paBIyOTzj9bzYceHceLego3g9ib7D9iAxRQ+E1j+affgvREtjZVKlA==
+react-grid-system@6.2.3:
+  version "6.2.3"
+  resolved "https://registry.yarnpkg.com/react-grid-system/-/react-grid-system-6.2.3.tgz#70dd51fdc9db5b0f12e4ad5dcbaed9a776b2eceb"
+  integrity sha512-vkSKzsnI2lyAgO5IDJu/YdOE4Ag67GOH0dZHE7AfCstnh+2kK2fCFZWPgW7r0Gwve34QQNKw0Pv5EVjemBWVpA==
   dependencies:
     prop-types "^15.7.2"
 
