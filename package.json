@@ -4,7 +4,7 @@
     "next": "9.2.2",
     "react": "16.13.0",
     "react-dom": "16.13.0",
-    "react-grid-system": "6.2.3",
+    "react-grid-system": "6.2.4",
     "react-use": "13.26.4"
   },
   "scripts": {
