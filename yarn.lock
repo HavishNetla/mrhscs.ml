@@ -5798,10 +5798,10 @@ react-dom@16.13.1:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
-react-grid-system@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/react-grid-system/-/react-grid-system-7.0.0.tgz#ef4e5c300d93bdd80ca07e3d8b8cf0e68e7353ff"
-  integrity sha512-pjx/uAndOnGr9XugR3GIurMGksuFWN91np02DD8Mpzk0CHNRPA/m1i8HgK2LIg+a9SHq5tgZqGZ0h86l4F3lVA==
+react-grid-system@7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/react-grid-system/-/react-grid-system-7.0.2.tgz#877bb00e5043db8acd896c4614099e5cdbfddf15"
+  integrity sha512-L/92Hk0OhmSm2avehgVW+w0KUT+NRESS50yMq8P+eWvPElYd1bAB229paFqkHzLRg55zEBJDSVk0Wp5Qw0k5Zg==
   dependencies:
     prop-types "^15.7.2"
 
